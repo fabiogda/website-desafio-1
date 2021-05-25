@@ -6,9 +6,12 @@
 - SEO -> [coffeecode/optimizer](https://packagist.org/packages/coffeecode/optimizer).
 - Cropper ->  [coffeecode/cropper](https://packagist.org/packages/coffeecode/cropper).
 
-**Serviço de disparo de e-mail:**
-- Mailtrap -> [mailtrap.io](https://mailtrap.io/).
+**Serviço:**
+- Mailtrap -> [mailtrap.io](https://mailtrap.io/) para disparo de e-mail.
 >Obs: Serviço de e-mail é utilizado na página de contato, crie uma conta no site acima e parametrize o .env para utilização do mesmo.
+
+- Plugin do facebook nas páginas do blog.
+>Obs: Para utilização deste recurso basta acessar [facebook for developers](https://developers.facebook.com/) e criar um novo aplicativo.
 
 #### Sobre o curso e seus módulos
 
