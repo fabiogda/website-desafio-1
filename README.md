@@ -8,8 +8,7 @@
 
 **Serviço de disparo de e-mail:**
 - Mailtrap -> [mailtrap.io](https://mailtrap.io/).
-*Obs: Serviço de e-mail utilizado na página de contato.*
-*Obs²: Crie uma conta no site acima e parametrize o .env para utilizaço do mesmo.*
+>Obs: Serviço de e-mail é utilizado na página de contato, crie uma conta no site acima e parametrize o .env para utilização do mesmo.
 
 #### Sobre o curso e seus módulos
 
@@ -22,7 +21,7 @@
 - Crie um banco de dados e parametrize o arquivo .env com o devido acesso ao BD;
 - Execute o comando ```php artisan migrate``` depois ```php artisan db:seed```;
 - Dentro de **storage/app/public/** crie uma pasta chamada **posts**, nessa pasta coloque ao menos 6 imagens (.jpg ou .png);
-*Obs: coloque o nome dos arquivos seguindo este modelo: 1.jpg, 2.png, 3.jpg, etc*;
+>Obs: coloque o nome dos arquivos seguindo este modelo: 1.jpg, 2.png, 3.jpg, etc;
 - Abra o banco de dados para este projeto, selecione a tabela **posts** na coluna **cover** coloque o diretório/arquivo para cada registro com sua respectiva imagem, exemplo: **/posts/1.jpg**
 
 #### Licença do framework
