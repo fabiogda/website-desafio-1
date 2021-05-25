@@ -8,7 +8,8 @@
 
 **Serviço de disparo de e-mail:**
 - Mailtrap -> [mailtrap.io](https://mailtrap.io/).
-*Obs: serviço de e-mail utilizado na página de contato, crie uma conta no site acima e parametrize o .env para utilizaço do mesmo.*
+*Obs: Serviço de e-mail utilizado na página de contato.*
+*Obs²: Crie uma conta no site acima e parametrize o .env para utilizaço do mesmo.*
 
 #### Sobre o curso e seus módulos
 
